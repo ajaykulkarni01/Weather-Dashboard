@@ -43,7 +43,7 @@ Please find below the application screenshot:
 
 ## 🔗 Project Link
 
-https://ajaykulkarni01.github.io/Code-Quiz/
+https://ajaykulkarni01.github.io/Weather-Dashboard/
 
    <br/>
 
